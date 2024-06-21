@@ -31,7 +31,7 @@ namespace AppAlunos_BackEnd.Services
 
             if (!string.IsNullOrEmpty(nome))
             {
-                alunos = _context.Alunos.Where(a => a.Nome == nome);
+                alunos = await _context.Alunos.Where(a => a.Nome.Contains(nome)).ToListAsync();
             } else
             {
                 alunos = await GetAlunos();

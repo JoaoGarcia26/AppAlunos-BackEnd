@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppAlunos-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2de2ca67d2bec5a29f25e975c4db5c73a6b2c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c321ae8b0c263dd3d5d3e6111802f1f77770b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppAlunos-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppAlunos-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
